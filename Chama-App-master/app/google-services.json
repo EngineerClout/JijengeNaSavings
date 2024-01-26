@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277068095817",
+    "project_id": "echamanew",
+    "storage_bucket": "echamanew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277068095817:android:fae3e25c75748cff4ffa98",
+        "android_client_info": {
+          "package_name": "com.ekenya.echama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb35MNUQLhCMgBaKFHQCol5nJtiwTgLUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
